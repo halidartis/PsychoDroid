@@ -26,7 +26,7 @@ public class ReadSMS {
         // public static final String DRAFT = "content://sms/draft";
 
     }
-
+//Deneme
     public void getSMSMessages(Context context, int intervalHour, String FileName) {
         String str = "";
         long currentDateInMillis = System.currentTimeMillis();
